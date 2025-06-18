@@ -1,0 +1,55 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #fafafa;
+  margin: 20px;
+  color: #333;
+  text-align: center;
+}
+
+h2 {
+  color: #2c3e50;
+  margin-bottom: 25px;
+}
+
+.program {
+  background: white;
+  border: 1px solid white;
+  padding: 10px;
+  margin-bottom: 15px;
+  text-align: left;
+}
+
+.program h3 {
+  color: #2980b9;
+  margin: 0 0 8px 0;
+}
+
+.program p {
+  margin: 6px 0;
+  font-size: 14px;
+}
+
+form {
+  margin-top: 10px;
+}
+
+input[type="submit"] {
+  background: #2980b9;
+  color: white;
+  padding: 8px 14px;
+  border-radius: 3px;
+  font-weight: bold;
+  font-size: 14px;
+}
+
+input[type="submit"]:hover {
+  background: #2980b9;
+}
+
+a {
+  color: #2980b9;
+}
+
+a:hover {
+  text-decoration: underline;
+}
